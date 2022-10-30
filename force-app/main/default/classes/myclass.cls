@@ -1,3 +1,4 @@
+//Created new class
 public with sharing class myclass {
 	public myclass() {
 
